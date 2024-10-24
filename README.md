@@ -39,7 +39,7 @@ Figma：▽獲得グッズ一覧・登録・編集・削除・ヘッダーのプ
        https://www.figma.com/design/Dz3OMiWCeZAX7yX13HgNSc/my-my-project?node-id=10-401&node-type=canvas&t=VgCR2wp6YlNGBEdA-0
 
 ### READMEに記載した機能
-- [x] ユーザー登録機能
+- [ ] ユーザー登録機能
 - [ ] ログイン機能
 - [ ] パスワード変更機能
 - [ ] メールアドレス変更機能
