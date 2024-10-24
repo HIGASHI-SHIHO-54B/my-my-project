@@ -32,7 +32,7 @@ Stimulus Autocomplete（Rails7 ）導入し検索候補の表示を行う予定�
 Figma：▽獲得グッズ一覧・登録・編集・削除・ヘッダーのプルダウン
        https://www.figma.com/design/Dz3OMiWCeZAX7yX13HgNSc/my-my-project?node-id=3-4&node-type=frame&t=VgCR2wp6YlNGBEdA-0
 
-       ▽ログイン・ユーザー登録・プロフィール・プロフィール編集・パスワードリセット申請・パスワードリセット
+       ▽ログイン・ユーザー登録・プロフィール・プロフィール編集・メールアドレス変更申請・メールアドレス変更画面・パスワードリセット申請・パスワードリセット
        https://www.figma.com/design/Dz3OMiWCeZAX7yX13HgNSc/my-my-project?node-id=4-145&node-type=canvas&t=VgCR2wp6YlNGBEdA-0
 
        ▽【本リリースまでに作成したいもの】タグ付け・検索欄・トップページ
@@ -57,6 +57,7 @@ Figma：▽獲得グッズ一覧・登録・編集・削除・ヘッダーのプ
 - [ ] トップページ
 - [ ] ログイン機能
 - [ ] パスワード変更機能
+- [ ]メールアドレス変更画面
 
 ### メールアドレス・パスワード変更確認項目
 直接変更できるものではなく、一旦メールなどを介して専用のページで変更する画面遷移になっているか？
