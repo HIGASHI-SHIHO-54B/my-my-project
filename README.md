@@ -32,10 +32,10 @@ Stimulus Autocomplete（Rails7 ）導入し検索候補の表示を行う予定�
 Figma：▽獲得グッズ一覧・登録・編集・削除・ヘッダーのプルダウン
        https://www.figma.com/design/Dz3OMiWCeZAX7yX13HgNSc/my-my-project?node-id=3-4&node-type=frame&t=VgCR2wp6YlNGBEdA-0
 
-       ▽ログイン・ユーザー登録・プロフィール・プロフィール編集・メールアドレス変更申請・メールアドレス変更画面・パスワードリセット申請・パスワードリセット
+       ▽ログイン・ユーザー登録・プロフィール・プロフィール編集
        https://www.figma.com/design/Dz3OMiWCeZAX7yX13HgNSc/my-my-project?node-id=4-145&node-type=canvas&t=VgCR2wp6YlNGBEdA-0
 
-       ▽【本リリースまでに作成したいもの】タグ付け・検索欄・トップページ
+       ▽【本リリースまでに作成したいもの】タグ付け・検索欄・トップページ・メールアドレス変更申請・メールアドレス変更画面・パスワードリセット申請・パスワードリセット
        https://www.figma.com/design/Dz3OMiWCeZAX7yX13HgNSc/my-my-project?node-id=10-401&node-type=canvas&t=VgCR2wp6YlNGBEdA-0
 
 ### READMEに記載した機能
